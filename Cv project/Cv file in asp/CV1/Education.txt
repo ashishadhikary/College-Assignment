@@ -1,0 +1,2 @@
+<p id="design"><span id="underline">Bachelor of CS:-</span> <strong><span id="design1">I am currently studying Bachelors of
+Science &emsp;&emsp;&emsp;&emsp;in Computer Science and Information Technology(2017-2021).</spam></p>

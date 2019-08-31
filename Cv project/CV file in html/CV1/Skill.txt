@@ -1,0 +1,7 @@
+
+<p id="design"><span id="underline1">UI/UX design:-</span> <strong><span id="design1">I design UI/UX of the website.I used tool like
+Adobe  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;XD for wireframing nad designing the website.</p>
+<p id="design"><span id="underline">Web Development:-</span> <strong><span id="design1">I am a web developer.I do both frontend and &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;backend
+part of the website.</p>
+
+    

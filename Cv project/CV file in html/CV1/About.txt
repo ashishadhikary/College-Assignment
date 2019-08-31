@@ -1,0 +1,12 @@
+<p id="design"> <strong><span id="design1">Hello! I am Ashish, web developer based on Nepal.I have rich experience  &emsp;&emsp;&emsp;&emsp;&emsp; in website
+design & building and customization.
+<br><br>
+Also i'm good at </span>
+<button class="button button5">Javascript</button>
+<button class="button button5">Mysql</button>
+<button class="button button5">Wordpress</button>
+<button class="button button5">React</button>
+
+</p>
+ 
+

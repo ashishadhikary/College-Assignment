@@ -1,0 +1,193 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font: 14px Sans-Serif;
+  line-height: 20px;
+}
+.clear {
+  clear: both;
+}
+.container-fluid {
+  width: 620px;
+  height: 640px;
+  background-color: #484848;
+  text-align: center;
+  margin: 140px 100px 5px 380px;
+}
+#design {
+  text-align: left;
+  padding: 0px 0px 0px 25px;
+}
+#underline {
+  margin-top: 10px;
+  font-size: 20px;
+  line-height: 5px;
+  opacity: 0.7;
+}
+#underline1{
+  margin-top: 10px;
+  font-size: 20px;
+  line-height: 5px;
+  opacity: 0.7;
+  font-weight:bold;
+
+}
+
+.div1 {
+  position: absolute;
+  width: 520px;
+  height: 680px;
+  background-color: #e5e2e2;
+  margin-top: -85px;
+  margin-left: 47px;
+
+  margin-bottom: 120px;
+}
+.top {
+  width: 520px;
+  height: 140px;
+  background-color: #cac8c8;
+  margin: 0px;
+}
+.bottom {
+  width: 520px;
+  height: 540px;
+  background-color: white;
+}
+.skill {
+  width: 520px;
+  height: 180px;
+  background-color: #e8e8e8;
+}
+#skill {
+  opacity: 0.9;
+  font-size: 30px;
+  text-align: left;
+  font-weight: bolder;
+  font-family: sans-serif;
+  padding: 15px 0px 0px 15px;
+}
+.education {
+  width: 520px;
+  height: 120px;
+  background-color: #e8e8e8;
+}
+
+#education {
+  opacity: 0.9;
+  font-weight: bolder;
+  font-family: sans-serif;
+  font-size: 25px;
+  text-align: left;
+  padding: 15px 0px 0px 15px;
+}
+.about {
+  width: 520px;
+  height: 240px;
+  background-color: #e8e8e8;
+}
+#about {
+  opacity: 0.9;
+  font-weight: bolder;
+  font-family: sans-serif;
+  font-size: 25px;
+  text-align: left;
+  padding: 15px 0px 0px 15px;
+}
+#design1{
+  opacity:0.7;
+}
+}
+#design pre {
+  width: 50px;
+}
+.button {
+  background-color: #56ada6; /* Green */
+  border: none;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.button5 {
+  border-radius: 45%;
+}
+
+.circular--square {
+  position: relative;
+  width: 100px;
+  height: 200px;
+  overflow: hidden;
+  border-radius: 50%;
+}
+.circular--square {
+  border-radius: 50%;
+}
+.picture {
+  float: left;
+}
+.picture img {
+  position: absolute;
+  background-size: cover;
+  width: 90px;
+  height: 90px;
+  background-size: cover;
+  display: block;
+  margin: 25px 0px 15px 25px;
+}
+.text {
+  float: left;
+  margin: 20px 0px 10px 120px;
+}
+#one {
+  text-transform: uppercase;
+  padding: 5px;
+  opacity: 0.9;
+  font-size: 20px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  margin-left: -0px;
+}
+#two {
+  text-transform: uppercase;
+  font-style: oblique;
+  font-weight: bolder;
+  font-family: sans-serif;
+  opacity:0.9;
+  margin: -5px;
+  font-size: 12px;
+  line-height: 8px;
+  padding-left: 3px;
+}
+.icon_pic {
+  float: right;
+  margin: 0px 20px 20px 0px;
+  padding: 5px;
+}
+.icon_pic i {
+  padding: 10px;
+}
+.mail1 {
+  margin-right: 30px;
+}
+#phone {
+  padding-left: -30px;
+}
+#email {
+  padding-left: 15px;
+}
+.mail2 {
+  margin-right: -10px;
+  padding: 10px;
+}
+.mail3 {
+  margin-right: 18px;
+  padding: 10px;
+}
+
+background-color: #cbc5c5;
